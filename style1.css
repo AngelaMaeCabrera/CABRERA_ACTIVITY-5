@@ -1,0 +1,66 @@
+.header {
+	
+}
+
+.logo {
+	position: relative;
+	top: -76px;
+	right: -25px;
+	width: 90px;
+	height: 90px;
+	z-index: 1;
+}
+
+.rectangle {
+	position: relative; 
+	top: 5px;
+	left: 70px;
+    width: 609px;
+    height: 69px;
+    background-color: #00953B;
+	border-radius: 50px;
+}
+
+.rectangle h1 {
+	font-family: 'Koulen', sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 70px;
+	margin-left: 60px;
+}
+
+.rectangle span {
+	font-family: 'Koulen', sans-serif;
+	font-size: 16px;
+	line-height: 60px;
+	margin-left: 5px;
+	color: #FFAE00;
+}
+
+.rectangle_nav {
+	position: relative; 
+	top: -8px;
+	left: -8px;
+    width: 1440px;
+    height: 15px;
+    background-color: #006834;
+}
+
+.navigation {
+	position: relative;
+	font-family: 'Koulen', sans-serif;
+	top: -130px;
+	left: 900px;
+	word-spacing: 35px;
+}
+
+
+.hero_image {
+	position: relative;
+	margin: 10px;	
+	top: 10px;
+	left: -470px;
+	bottom: -110px;
+    width: 1440px;
+    height: 401px;
+} 
